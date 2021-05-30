@@ -1,3 +1,2 @@
-com\example\actuatorservice\HelloWorldApplication.class
-com\example\actuatorservice\HelloWorldController.class
-com\example\actuatorservice\Greeting.class
+com\example\springboot\Application.class
+com\example\springboot\HelloController.class

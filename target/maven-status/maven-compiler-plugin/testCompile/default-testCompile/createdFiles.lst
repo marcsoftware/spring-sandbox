@@ -1,1 +1,2 @@
-com\example\actuatorservice\HelloWorldApplicationTests.class
+com\example\springboot\HelloControllerIT.class
+com\example\springboot\HelloControllerTest.class
